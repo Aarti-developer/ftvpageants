@@ -1351,6 +1351,7 @@ i::after {
 .footer-content h3 {
   font-size: 2.5rem;
   font-family: "Rossanova";
+  color: #fff200;
 }
 .footer-content .form-group {
 }
@@ -1373,9 +1374,7 @@ i::after {
   color: #fff;
   border-radius: 10px 0 0 10px;
   margin-right: 5px;
-}
-.footer-content h3 {
-  color: #fff200;
+  font-family: "GothamLight";
 }
 .footer-branding {
   margin: auto;
@@ -2510,3 +2509,26 @@ nav .menu i {
 }
 /* ===========career ,privacy policy & terms & conditions ============
 ====================================================================== */
+
+
+/* FTvPageants  */
+.fashiontv-video-content{
+  width: 80%;
+  padding: 1rem 0;
+  margin: auto;
+}
+.fashiontv-video-content h4{
+  font-size: 2.5rem;
+    text-transform: uppercase;
+    color: #fff200;
+    text-align: center;
+    font-family: "Montserrat-Bold";
+}
+.fashiontv-video-content p{
+  font-size: 1.3rem;
+    color: #fff;
+    font-family: "Montserrat-Regular";
+    line-height: 2rem;
+    text-align: center;
+}
+/* FTvPageants  */

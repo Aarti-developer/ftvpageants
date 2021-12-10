@@ -73,6 +73,9 @@
   .ftv-channel-content-one h1 {
     font-size: 3rem;
   }
+  .fashiontv-video-content p {
+    font-size: 1.2rem;
+  }
   /* .missftv-content-one h1 {
   top: -183px;
   font-size: 4rem;
@@ -495,6 +498,9 @@
 .branding-four img {
   width: 10%;
 }
+.fashiontv-video-content {
+  width: 100%;
+}
 /* .pageants-content .pageants-heading {
   font-size: 3rem;
 } */
@@ -617,6 +623,15 @@
 .channel-reach-sec {
   padding: 7.5rem 0 0.5rem 0;
 }
+.fashiontv-video-content h4 {
+  font-size: 2rem;
+}
+.fashiontv-video-content p {
+  font-size: 1rem;
+}
+.footer-branding {
+  width: 90%;
+}
 }
 /* ==========280px breakpoint ==============*/
 @media (max-width: 280px) {
@@ -628,9 +643,7 @@
 .blog-slider__pagination {
   top: 431px;
 }
-.footer-branding {
-  width: 42%;
-}
+
 .pageants-img-ftv-content h1 {
   left: 18%;
   font-size: 1.5rem;
@@ -669,5 +682,8 @@
 .footer-content .form-group .input-group .submit-btn,
 .footer-content .form-group .input-group .form-control {
   font-size: 0.9rem;
+}
+.pageants-video-sec {
+  padding: 2.5rem 0 0 0;
 }
 }
