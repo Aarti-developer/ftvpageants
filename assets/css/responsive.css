@@ -1,0 +1,673 @@
+/* ==========1440px breakpoint ==============*/
+@media (max-width: 1440px) {
+  .missftv_sec-one .video-sec,
+  .missftv_sec .video-sec {
+    background-color: transparent;
+    width: 75%;
+    margin: auto;
+  }
+}
+
+/* ==========1366px breakpoint ==============*/
+@media (max-width: 1366px) {
+}
+
+/* ==========1200px breakpoint ==============*/
+@media (max-width: 1200px) {
+  .kashiff-card .kashiff-content .kashiff-heading,
+  .michel-card .michel-content .michel-heading,
+  .intro-main-content .intro-heading-one,
+  .intro-main-content .intro-heading-two {
+    font-size: 3.5rem;
+  }
+  .phils-card .phils-content {
+    padding: 15px 15px;
+  }
+  .kashiff-card::after,
+  .michel-card::after {
+    font-size: 2.5rem;
+  }
+  
+  .kashiff-intro-content .kashiff-para {
+    width: 80%;
+  }
+  /* .michel-card .michel-content .michel-heading {
+  font-size: 3.5rem;
+} */
+}
+@media (max-width: 1110px) {
+  .missftv-content-one h1,
+  .missftv-content h1 {
+    top: -214px;
+    font-size: 5rem;
+  }
+  /* .missftv-content-one h1{
+    top: -214px;
+    font-size: 5rem;
+} */
+  .fnc-slide__heading-line {
+    font-size: 78px;
+  }
+}
+
+/* ==========1024px breakpoint ==============*/
+@media (max-width: 1024px) {
+  .social_content,
+  .keyfact_content {
+    width: 85%;
+  }
+  .ftv-channel-content-one {
+    padding: 20px 0;
+  }
+}
+/* ==========992px breakpoint ==============*/
+@media (max-width: 992px) {
+  .missftv-content-one h1,
+  .missftv-content h1 {
+    top: -185px;
+    font-size: 4rem;
+  }
+  .phil-heading h1 {
+    font-size: 5rem;
+  }
+  .ftv-channel-content-one h1 {
+    font-size: 3rem;
+  }
+  /* .missftv-content-one h1 {
+  top: -183px;
+  font-size: 4rem;
+} */
+}
+/* ==========872px breakpoint ==============*/
+@media (max-width: 872px) {
+}
+/* ==========768px breakpoint ==============*/
+@media (max-width: 768px) {
+  .pageants-img-ftv-content h1,
+  .pageants-img-content h1 {
+    font-size: 3.5rem;
+  }
+  .phil-heading-one h1{
+    font-size: 3.5rem;
+  }
+  .phil-heading h1 {
+    font-size: 4rem;
+  }
+  .phil-heading-one {
+    width: 95%;
+}
+  .missftv-content-one h1,
+  .missftv-content h1 {
+    top: -155px;
+    font-size: 3.5rem;
+  }
+  .missftv_sec-one,
+  .missftv_sec {
+    padding: 3.5rem 0;
+    margin: 3.5rem 0;
+  }
+  .intro-main-content .intro-heading-one,
+  .intro-main-content .intro-heading-two {
+    font-size: 3rem;
+  }
+  .kashiff-card .kashiff-content .kashiff-heading,
+  .michel-card .michel-content .michel-heading {
+    font-size: 2.5rem;
+  }
+  .phils-card .phils-content {
+    padding: 15px 10px;
+}
+.footer-social-links .social-circle {
+  margin-right: 0;
+}
+.footer-content .form-group .input-group .submit-btn {
+  padding: 5px 15px;
+  font-size: 1rem;
+}
+.footer-content .form-group .input-group {
+  width: 90%;
+}
+.enquiry_now_btn {
+  width: 46px;
+  height: 46px;
+  bottom: 10px;
+  right: 10px;
+  font-size: 26px;
+}
+.kashiff-card .kashiff-img,
+.michel-card .michel-img {
+  width: 100%;
+}
+.kashiff-card::after, .michel-card::after {
+  font-size: 2rem;
+}
+.kashiff-intro-content .kashiff-para {
+  width: 85%;
+}
+.fashiontv-video-sec-two .video-sec-ftv-two .video-text-two h1,
+ .fashiontv-video-sec .video-sec-ftv .video-text h1 {
+  font-size: 1.5rem;
+}
+.social_content .social_heading, 
+.keyfact_content .keyfact_heading {
+  font-size: 3.5rem;
+}
+.pageants-content .pageants-para,
+.channel-intro-content .channel-intro-para,
+.social_content .social_para,
+ .keyfact_content .keyfact_list li {
+  font-size: 1.2rem;
+}
+.channel-intro-content .channel-intro-heading {
+  font-size: 5rem;
+}
+#scroll {
+  bottom: 75px;
+  right: 15px;
+}
+.pageants-content,
+.ftv-channel-content-one {
+  width: 90%;
+}
+.ftv-channel-content-one h1 {
+  font-size: 2.5rem;
+}
+.blog-slider__title {
+  font-size: 3.5rem;
+  line-height: 1;
+}
+.blog-slider__pagination .swiper-pagination-bullet {
+  width: 40px;
+  height: 10px;
+}
+.pageants-content .pageants-heading {
+  font-size: 4.5rem;
+}
+.pageants-video-sec,
+.pageants-anim-slider{
+  padding: 2.5rem 0;
+}
+.fashiontv-video-sec {
+  padding: 0 0 2.5rem 0;
+}
+.fashiontv-video-sec .video-sec-ftv {
+  width: 85%;
+}
+}
+
+/* ==========576px breakpoint ==============*/
+@media (max-width: 576px) {
+  .video-sec #desktop {
+    display: none;
+  }
+  .video-sec #mobile {
+    display: block;
+  }
+  .video-sec video {
+    width: 100%;
+    object-fit: cover;
+    height: 100vh;
+  }
+  .fashiontv-video-sec-two .video-sec-ftv-two #desktop {
+    display: none;
+  }
+  .missftv_sec-one .video-sec #desktop,
+   .missftv_sec .video-sec #desktop {
+    display: none;
+}
+.missftv_sec-one .video-sec #mobile,
+   .missftv_sec .video-sec #mobile {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    height: 80vh;
+}
+.missftv_sec-one .video-sec, .missftv_sec .video-sec {
+  background-color: transparent;
+  width: 90%;
+  margin: auto;
+}
+.missftv-content-one h1, .missftv-content h1 {
+  top: -155px;
+  font-size: 3rem;
+  left: auto;
+  margin: 5px;
+
+}
+.phil-heading-one h1, .phil-heading h1 {
+  font-size: 3rem;
+}
+.phils-card, .phils-card.selected {
+  padding: 20px 0;
+}
+.phils-card .phils-content {
+  padding: 15px 20px;
+}
+  .fashiontv-video-sec-two .video-sec-ftv-two #mobile {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    height: 80vh;
+  }
+  .fashiontv-video-sec .video-sec-ftv #desktop {
+    display: none;
+  }
+  .fashiontv-video-sec .video-sec-ftv #mobile {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    height: 80vh;
+  }
+  .fashiontv-video-sec-two .video-sec-ftv-two {
+    width: 100%;
+  }
+  /* .video-sec .video-text h1 {
+        font-family: "";
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 50px;
+      } */
+  .ftv-channel-video-one #desktop {
+    display: none;
+  }
+  .ftv-channel-video-one #mobile {
+    display: block;
+  }
+  .ftv-channel-video-one video {
+    width: 100%;
+    object-fit: cover;
+    height: 80vh;
+  }
+  .enquiry-form .enquiry-width {
+    width: 100%;
+    margin: auto;
+  }
+  .footer>.container>.row>div:first-child {
+    order: 1;
+}
+.footer>.container>.row>div:last-child {
+  order: 1;
+}
+.footer-branding {
+  margin: auto;
+  width: 35%;
+}
+.footer {
+  padding: 5rem 0;
+}
+.footer-logo-img {
+  display: none;
+}
+.copyright-sec {
+  padding: 2rem 0;
+}
+.michel-card .michel-content {
+  bottom: 10%;
+  left: 8%;
+  width: 85%;
+}
+.kashiff-card::after, .michel-card::after {
+  font-size: 1.5rem;
+}
+.kashiff-intro {
+  padding: 2rem 0 3.5rem 0;
+}
+.kashiff-intro-content .kashiff-para {
+  width: 90%;
+}
+.kashiff-intro-content .kashiff-para {
+  font-size: 1.3rem;
+}
+.pageants-img-ftv-main img {
+  height: 80vh;
+  object-fit: cover;
+  object-position: center;
+}
+.pageants-img-ftv-content h1, .pageants-img-content h1 {
+  font-size: 3rem;
+}
+.social_content, .keyfact_content {
+  width: 100%;
+}
+.channel-intro-content .channel-intro-heading {
+  font-size: 4rem;
+}
+.ftv-channel-content-one {
+  padding: 30px 0;
+}
+.ftv-channel-video-two #desktop, .ftv-channel-video-one #desktop {
+  display: none;
+}
+.ftv-channel-video-two #mobile,
+ .ftv-channel-video-one #mobile {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+  height: 80vh;
+}
+.blog-slider__pagination {
+  top: 235px;
+}
+.pageants-content .pageants-heading {
+  font-size: 3.5rem;
+}
+.pageants-content, .ftv-channel-content-one {
+  width: 100%;
+}
+.fnc-slide__heading-line {
+  font-size: 60px;
+}
+.fnc-slide__mask {
+  right: 50%;
+  top: 15%;
+  width: 50.25vh;
+  height: 67vh;
+  margin-right: -100px;
+}
+.fnc-nav__control {
+  width: 142px;
+  font-size: 12px;
+}
+.fashiontv-video-sec .video-sec-ftv {
+  width: 100%;
+}
+}
+/* ==========425px breakpoint ==============*/
+@media (max-width: 425px) {
+  .enquiry-form h1 {
+    font-size: 44px;
+  }
+  .pageants-img-main img {
+    width: 100%;
+    object-position: center;
+    object-fit: cover;
+    height: 70vh;
+}
+.pageants-img-content h1 {
+  width: 60%;
+  position: absolute;
+  left: 8%;
+}
+.missftv_para {
+  width: 90%;
+}
+.missftv-content-one h1, .missftv-content h1 {
+  top: -138px;
+  font-size: 3rem;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  writing-mode: horizontal-tb;
+  color: #fff;
+}
+.missftv_sec-one .video-sec, .missftv_sec .video-sec {
+  width: 100%;
+}
+.missftv_sec {
+  background: linear-gradient( to right, #fe655d 0%, #fe655d 60%, transparent 60%, transparent 100% );
+}
+.missftv_sec-one {
+  background: linear-gradient( to right, transparent 0%, transparent 40%, #97b8a5 40%, #97b8a5 100% );
+}
+.phil-heading-one h1, .phil-heading h1,
+.intro-main-content .intro-heading-one, .intro-main-content .intro-heading-two {
+  font-size: 2.5rem;
+}
+.phil-heading-one h1{
+  font-size: 2.3rem;
+}
+.footer>.container>.row>div:first-child {
+  order: 1;
+  width: 70%;
+}
+.footer>.container>.row>div:last-child {
+  order: 1;
+  width: 30%;
+}
+.kashiff-card .kashiff-img, .michel-card .michel-img {
+  width: 100%;
+  height: 80vh;
+}
+.kashiff-card::after,
+ .michel-card::after {
+  font-size: 1.2rem;
+}
+.kashiff-card .kashiff-img img {
+  height: 60vh;
+  object-position: center;
+  object-fit: cover;
+}
+.kashiff-intro-content {
+  padding: 10% 0;
+}
+.pageants-img-ftv-content h1,
+ .pageants-img-content h1 {
+  font-size: 2.5rem;
+}
+.fashiontv-video-sec-two .video-sec-ftv-two .video-text-two,
+ .fashiontv-video-sec .video-sec-ftv .video-text {
+  left: 42%;
+}
+.fashiontv-video-sec-two .video-sec-ftv-two .video-text-two h1,
+ .fashiontv-video-sec .video-sec-ftv .video-text h1 {
+  font-size: 1.2rem;
+}
+/* .social_content .social_heading, 
+.keyfact_content .keyfact_heading {
+  font-size: 3rem;
+} */
+.channel-intro-content {
+  padding: 7.5rem 2rem;
+}
+/* .channel-intro-content .channel-intro-heading {
+  font-size: 3rem;
+} */
+.pageants-content, .ftv-channel-content-one {
+  width: 95%;
+}
+.blog-slider__text {
+  padding: 3% 8% 0 8%;
+}
+.blog-slider__pagination {
+  top: 310px;
+}
+.social_content .social_heading, 
+.keyfact_content .keyfact_heading,
+.channel-intro-content .channel-intro-heading,
+.pageants-content .pageants-heading,
+.blog-slider__title {
+  font-size: 3rem;
+}
+.pageants-content .pageants-para,
+ .channel-intro-content .channel-intro-para,
+  .social_content .social_para,
+   .keyfact_content .keyfact_list li {
+  font-size: 1rem;
+}
+.fnc-nav__control {
+  width: 100px;
+}
+.fnc-slide__heading-line {
+  font-size: 45px;
+}
+.branding-two img,
+.branding-one img,
+.branding-three img,
+.branding-four img {
+  width: 10%;
+}
+/* .pageants-content .pageants-heading {
+  font-size: 3rem;
+} */
+}
+/* ==========375px breakpoint ==============*/
+@media (max-width: 375px) {
+  .ftv-channel-video-one video {
+    width: 100%;
+    height: 65vh;
+    object-fit: cover;
+    object-position: center;
+  }
+  .fnc-nav__control {
+    width: 85px;
+}
+.social_content .social_heading, 
+.keyfact_content .keyfact_heading,
+.channel-intro-content .channel-intro-heading,
+.pageants-content .pageants-heading,
+.blog-slider__title {
+  font-size: 2.5rem;
+}
+.pageants-img-ftv-content h1,
+.pageants-img-content h1 {
+  font-size: 2rem;
+}
+.fashiontv-video-sec-two .video-sec-ftv-two .video-text-two,
+ .fashiontv-video-sec .video-sec-ftv .video-text {
+  left: 55%;
+  width: fit-content;
+}
+.kashiff-card::after {
+  width: 80%;
+  text-align: center;
+}
+.kashiff-intro-content::before {
+  font-size: 2.5rem;
+}
+.missftv_sec-one, .missftv_sec {
+  padding: 2.5rem 0;
+  margin: 5.5rem 0;
+}
+.missftv-content-one h1 {
+  position: absolute;
+  right: -70px;
+}
+
+}
+/* ==========320px breakpoint ==============*/
+@media (max-width: 320px) {
+  .enquiry-form h1 {
+    font-size: 34px;
+  }
+  .missftv-content-one h1 {
+    position: absolute;
+    right: -100px;
+}
+.phil-heading-one h1,
+ .phil-heading h1,
+  .intro-main-content .intro-heading-one,
+   .intro-main-content .intro-heading-two {
+  font-size: 2rem;
+}
+.footer-content .form-group .input-group {
+  width: 98%;
+}
+.footer-content .form-group .input-group .submit-btn {
+  padding: 5px 10px;
+  font-size: 1rem;
+}
+.michel-card .michel-content {
+  left: 5%;
+  width: 90%;
+}
+.kashiff-card .kashiff-content {
+  left: 15%;
+}
+.kashiff-card::after {
+  width: 90%;
+  padding: 10px 10px;
+}
+.kashiff-intro-content::before {
+  font-size: 2rem;
+}
+.pageants-img-ftv-content h1 {
+  left: 10%;
+}
+.fashiontv-video-sec-two .video-sec-ftv-two .video-text-two, 
+.fashiontv-video-sec .video-sec-ftv .video-text {
+  left: 52%;
+  width: fit-content;
+}
+.fashiontv-video-sec-two .video-sec-ftv-two .video-text-two h1, 
+.fashiontv-video-sec .video-sec-ftv .video-text h1 {
+  font-size: 1.1rem;
+}
+.social-sec,
+.keyfact-sec {
+  padding: 5.5rem 0;
+}
+.phil-heading-one {
+  width: 95%;
+}
+.blog-slider__title ,
+.channel-intro-content .channel-intro-heading{
+  font-size: 2rem;
+}
+.channel-intro-content {
+  padding: 7.5rem 1rem;
+}
+.blog-slider__pagination {
+  top: 400px;
+}
+.ftv-channel-content-one {
+  width: 95%;
+}
+.fnc-nav__control {
+  width: 75px;
+}
+.channel-reach-sec {
+  padding: 7.5rem 0 0.5rem 0;
+}
+}
+/* ==========280px breakpoint ==============*/
+@media (max-width: 280px) {
+  .footer-social-links .social-circle {
+    height: 2rem;
+    line-height: 2rem;
+    width: 2rem;
+}
+.blog-slider__pagination {
+  top: 431px;
+}
+.footer-branding {
+  width: 42%;
+}
+.pageants-img-ftv-content h1 {
+  left: 18%;
+  font-size: 1.5rem;
+}
+.kashiff-card .kashiff-content .kashiff-heading,
+ .michel-card .michel-content .michel-heading {
+  font-size: 2rem;
+}
+.fashiontv-video-sec-two .video-sec-ftv-two .video-text-two h1{
+  font-size: 1rem;
+}
+.phil-heading-one h1{
+  font-size: 1.5rem;
+}
+.phils-card .phils-content {
+  padding: 15px 10px;
+}
+.michel-card::after {
+  font-size: 1.2rem;
+  width: 70%;
+  padding: 10px 20px;
+}
+.missftv-content-one h1 {
+  right: -120px;
+}
+.missftv_sec-one {
+  background: linear-gradient( to right, transparent 0%, transparent 30%, #97b8a5 30%, #97b8a5 100% );
+}
+.missftv_sec {
+  background: linear-gradient( to right, #fe655d 0%, #fe655d 70%, transparent 70%, transparent 100% );
+}
+.phil-heading h1,
+.intro-main-content .intro-heading-two {
+  font-size: 1.5rem;
+}
+.footer-content .form-group .input-group .submit-btn,
+.footer-content .form-group .input-group .form-control {
+  font-size: 0.9rem;
+}
+}
